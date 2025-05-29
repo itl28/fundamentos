@@ -1,0 +1,53 @@
+body {
+    width: 700px;
+    height: 800px;
+    margin: 0 auto;
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+
+
+#enca {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.texto {
+    text-align: justify;
+}
+
+
+h2 {
+    color: blue;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+nav a {
+    color: blue;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+a[href="#arriba"] {
+    display: block;
+    margin: 20px 0;
+    text-align: left;
+    font-size: 14px;
+    color: #0000FF;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
