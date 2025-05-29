@@ -39,13 +39,6 @@ nav a:hover {
 }
 
 
-a[href="#arriba"] {
-    display: block;
-    margin: 20px 0;
-    text-align: left;
-    font-size: 14px;
-    color: #0000FF;
-}
 
 img {
     max-width: 100%;
