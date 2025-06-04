@@ -39,3 +39,14 @@ body {
     "sidebar main" auto
     "footer footer" 50px / 200px auto;
 }
+
+@media screen and (max-width: 785px) {
+    .contenedor {
+        grid-template:
+        "header" 100px
+        "navbar" 50px
+        "sidebar" auto
+        "main" auto
+        "footer" 50px / auto;
+    }
+}
